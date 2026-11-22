@@ -20,6 +20,8 @@ Small NGOs run on spreadsheets. Volunteer applications arrive across three chann
 
 This is an operations platform for that gap: one place for applications, initiatives, funding and accountability, with role-based access and an audit trail that records who changed what.
 
+![The InAmigos admin dashboard: applicant counts, AI match rate, triage queue, initiative progress and the CSR funding pipeline](docs/screenshots/dashboard.png)
+
 ## What it covers
 
 | Area | What it does |
